@@ -1,6 +1,6 @@
 ![rbbieee](img/github-header-image.png)
 
-<h1 align="left">Hi 👋, I'm Robbie</h1>
+<h1 align="left">Hi! I'm Robbie👋</h1>
 <h2 align="left">I’m currently on a journey to become a Data Engineer.
 I’m passionate about understanding how data flows, building simple tools, and learning to make systems more efficient..</h3>
 

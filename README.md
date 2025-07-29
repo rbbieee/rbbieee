@@ -1,7 +1,9 @@
 <h1 align="left">Hi, I'm Robbie👋</h1>
-<h2 align="left">I'm currently learning to become a Data Engineer.  
-I enjoy exploring how data flows through systems and building small tools that solve real problems.  
-Right now, I'm focusing on improving my Python, SQL, and data infrastructure skills.</h3>
+
+![pacmann](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzB4bjRnYzJqdzQxYWw5ZHU5aXk0amJ5ZG1hMjgxbzVseXZkb3k5MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l8G8sdTRURRBANPpPR/giphy.gif)
+
+<h2 align="left">Trying to build things that are simple, useful, and reliable.  
+Learning through small experiments and consistent practice.</h2>
 
 ![pacman](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGplZTgzZDJ1dDc1ZmphYnBnNHRzMHJpMWlkcW8zOTJrN3loNWt6dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0fz5uNPHnoVHLEhAW2/giphy.gif)
 

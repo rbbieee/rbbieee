@@ -1,8 +1,7 @@
-![rbbieee](img/github-header-image.png)
-
-<h1 align="left">Hi! I'm Robbie👋</h1>
-<h2 align="left">I’m currently on a journey to become a Data Engineer.
-I’m passionate about understanding how data flows, building simple tools, and learning to make systems more efficient..</h3>
+<h1 align="left">Hi, I'm Robbie👋</h1>
+<h2 align="left">I'm currently learning to become a Data Engineer.  
+I enjoy exploring how data flows through systems and building small tools that solve real problems.  
+Right now, I'm focusing on improving my Python, SQL, and data infrastructure skills.</h3>
 
 ![pacman](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGplZTgzZDJ1dDc1ZmphYnBnNHRzMHJpMWlkcW8zOTJrN3loNWt6dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0fz5uNPHnoVHLEhAW2/giphy.gif)
 

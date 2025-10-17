@@ -1,18 +1,18 @@
-<h1 align="center">Hi, I'm Robbie.</h1>
+<p align="center">
+  <b>Hi, I'm Robbie.</b>
+</p>
 
 <p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmgwZDk1ZmI5aG9vcWpleDNzMXJtMDR0aTFlNnBhenYydXdkdTJraiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nQDKSeRlIyfmw/giphy.gif" alt="mugiwara" width="400"/>
 </p>
 
+<p align="center">
+  <b>Always learning, always experimenting.</b>
+</p>
+
 ---
 
-<h2 align="center">Always learning, always experimenting</h2>
-
----
-
-<h3 align="left">About Me</h3>
-
-<p align="left">
+<p align="center">
   I like building things that quietly <b>solve problems</b>.<br>
   I believe in <b>learning</b> by <b>building</b>.<br>
   I take pride in <b>small details</b> and steady <b>progress</b>.
@@ -20,7 +20,9 @@
 
 ---
 
-<h3 align="center">🛠️ Languages and Tools</h3>
+<p align="center">
+  🛠️ <b>Languages and Tools</b>
+</p>
 
 <p align="center">
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">

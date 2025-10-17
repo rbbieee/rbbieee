@@ -10,3 +10,5 @@
 <p align="center" style="font-size:25px; font-weight:600;">
   I like working on things that combine logic, clarity, and a bit of creativity.
 </p>
+
+<!-- Hi, you just found an easter egg. -->

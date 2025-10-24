@@ -1,12 +1,13 @@
-<p align="center" style="font-size:25px; font-weight:bold;">
-  Hi, I'm Robbie.
-</p>
+## Hello World!
+I'm Robbie, a student with a strong passion for artificial intelligence and everything it can do. Sometimes exploring other tech fields or just trying out something new
 
-<p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmgwZDk1ZmI5aG9vcWpleDNzMXJtMDR0aTFlNnBhenYydXdkdTJraiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nQDKSeRlIyfmw/giphy.gif" 
-       alt="mugiwara" width="550"/>
-</p>
+## About Me
 
-<p align="center" style="font-size:25px; font-weight:600;">
-  I like working on things that combine logic, clarity, and a bit of creativity.
-</p>
+When I need a break from the tech world, I'm usually:
+1. **Watching Anime**: One Piece is my absolute favorite
+2. **Gaming**: The Witcher 3 is my go to comfort game
+
+## Current Status
+
+🤖 AI Enthusiast  
+🔭 Always learning something new  

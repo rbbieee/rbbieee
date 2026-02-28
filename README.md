@@ -10,7 +10,7 @@
 
 🧠 Passionate about **Artificial Intelligence** and building **backend systems** that scale  
 🔭 Currently sharpening my skills in **AI engineering** and **distributed systems**  
-🌱 Always learning
+🌱 Always learning  
 🍜 One Piece is the GOAT. The Witcher 3 is my comfort game
 
 ---

@@ -64,17 +64,6 @@ class Robbie:
 
 ---
 
-## Stats
-
-<div align="center">
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=rbbieee&theme=dark&hide_border=true&background=0d1117&ring=00FF88&fire=00FF88&currStreakLabel=00FF88)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rbbieee&theme=dark&hide_border=true&layout=compact&bg_color=0d1117&title_color=00FF88&text_color=c9d1d9)
-
-</div>
-
----
-
 <div align="center">
 <sub>Hello, World!</sub>
 </div>
